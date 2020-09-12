@@ -1,0 +1,40 @@
+.top {
+  font-size: 50px;
+  color: #66FCF1;
+  margin: -60px 0px -60px 15px;
+  text-decoration: underline;
+  text-decoration-color: #45A29E;
+}
+
+.body {
+  font-size 25px;
+  color: #C5C6C7;
+  margin: 0px 0px 0px 25px;
+}
+
+.container {
+  column-count: 1;
+  margin: 250px 15px 0px 650px;
+  height: 250x;
+  width: 1250px;
+}
+
+.row {
+}
+
+.intro {
+  border-style: solid;
+  margin: 15px 15px 0px 15px;
+  width: 1000px;
+}
+
+.prompt {
+  margin-left: 15px;
+  color: #C5C6C7;
+  font-size: 25px;
+}
+
+.container:hover {
+  transform: scale(2.0);
+  transition-duration: 1s;
+}
