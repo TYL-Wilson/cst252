@@ -17,19 +17,18 @@ a {
   text-align:center;
   text-decoration: underline;
   text-underline-position: left;
-  float: left;
 }
 
 .profile {
   margin-right: 15px;
   margin-left: 1500px;
-  margin-top: 100px;
+  margin-top: -50px;
   border-style: solid;
   border-bottom-style: hidden;
   border-color: black;
   border-width: 5px;
   border-bottom-style: none;
-  float: right;
+  width: 350px;
 }
 
 .bio {
@@ -46,7 +45,7 @@ a {
   position: static;
   padding-left: 5px;
   padding-right: 5px;
-  float: right;
+
 }
 
 #bio-title {
@@ -60,14 +59,13 @@ a {
 .labs {
   border-color: black;
   background-color: #1F2833;
-  margin-top: -400px;
+  margin-top: -500px;
   margin-left: 50px;
   border-style: solid;
   width: 377px;
   height: 500px;
   font-size: 20px;
   padding-left: 15px;
-  float: left;
 }
 
 #labs-title {
@@ -80,14 +78,13 @@ a {
 .projects {
 border-color: black;
 background-color: #1F2833;
-margin-top: -515px;
+margin-top: -505px;
 margin-left: 475px;
 border-style: solid;
 width: 377px;
 height: 500px;
 font-size: 20px;
 padding-left: 15px;
-float: left;
 }
 
 #projects-title {
