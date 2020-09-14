@@ -1,0 +1,29 @@
+h1 {
+  width: 600px;
+  padding: 0px 0px 0px 15px;
+  color: #66FCF1;
+}
+
+div {
+  margin: 15px 0px 15px 15px;
+  display: block;
+  border-style: solid;
+  width: 750px;
+  padding: 0px 0px 0px 15px;
+}
+
+p {
+  font-size: 25px;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  padding-bottom: 15px;
+}
+.title {
+  display: contents;
+  height: 100px;;
+  width: 750px;
+  padding: 15px;
+}
