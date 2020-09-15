@@ -55,3 +55,13 @@
   height: 200px;
   padding-left: 15px;
 }
+
+.output h2 {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+.row2 h2 {
+  text-decoration: underline;
+  text-decoration-color: white;
+}
