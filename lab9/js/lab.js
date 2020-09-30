@@ -6,7 +6,7 @@ var outputEl = document.getElementById("output");
 
 //create new1El & set inner html
 var new1El = document.createElement("p");
-new1El.innerHTML = "Lab 9 - JS for the Web";
+new1El.innerHTML = "Lab 9 - JS Section";
 
 
 // create new2El & set inner html
@@ -26,17 +26,15 @@ document.body.appendChild(new2El)
 // document.getElementById("q").style.fontSize = "medium";
 
 //css-like js styling
-new1El.style.color = "black";
-new2El.style.border = "dashed";
+new1El.style.color = "white";
+new1El.style.border = "solid";
 new1El.style.backgroundColor = "slategray";
 new1El.style.width = "250px";
-new1El.style.margin = "15px";
 new1El.style.padding = "15px";
 
 
 new2El,new1El.style.fontSize = "large";
 new2El.style.border = "solid";
-new2El.style.margin = "15px";
 new2El.style.padding = "15px";
 
 //Sources
