@@ -1,0 +1,62 @@
+.row {
+  display: block;
+  column-count: 3;
+  border-style: solid;
+}
+
+.row p {
+  padding-left: 15px;
+
+
+}
+
+.row h2 {
+  text-decoration: underline;
+  text-decoration-color: white;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+row column {
+  padding-left: 15px;
+}
+
+.row2 {
+  display: flex;
+  column-count 2;
+  border-style: solid;
+}
+
+.row2 column {
+  height: 400px;
+  height: 600px;
+}
+
+#scriptoutput {
+  border-color: white;
+  border-style: solid;
+  width: 500px;
+  height: 300px;
+  padding-left: 15px;
+  margin-top: 15px;
+
+}
+
+.column-a h2 {
+  margin-top: 0px;
+}
+
+#my-button {
+  display: block;
+  margin-top: 150px;
+  margin-left: 15px;
+  height: 100px;
+  width: 100px;
+}
+
+#output {
+  border-style: solid;
+  border-color: white;
+  height: 250px;
+  width: 250px;
+}
