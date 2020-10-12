@@ -1,8 +1,5 @@
 //Lab 11 JS: Conditionals
 
-//How am I supposed to lay these out? All in the initial function? Or seperatly
-//with global variables?
-
 //sorting hat function
 function sortingHat(str) {
   len = str.length;
@@ -30,3 +27,8 @@ button.addEventListener("click", function() {
   newText = "<p>The Sorting Hat has sorted you into " + house + "." + "</p>"; // add text to output in html
   document.getElementById("output").innerHTML = newText; //output new html
 })
+
+//Was able to make a decent sortingHat / conditonal build, but needed to consult
+//Wes' code for the event listener and below.
+
+//also utilized W3Schools
