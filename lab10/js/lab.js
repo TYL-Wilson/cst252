@@ -12,7 +12,7 @@ function updateButton() {
     paragraph.textContent = input;
   } else {
     button.value = 'Hello';
-    paragraph.textContent = 'Goodbye, ';
+    paragraph.textContent = input;
   }
 }
 

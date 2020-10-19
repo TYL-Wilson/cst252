@@ -25,3 +25,4 @@ for (var i=1; i<201; i++) {
  }
 
 //innerHTML lines pulled from w3schools
+//output is making more sense now, i get the element id of my html element, then assert it's innerhtml via js cmd
