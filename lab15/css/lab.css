@@ -1,0 +1,52 @@
+.row {
+  display: block;
+  column-count: 3;
+  border-style: solid;
+}
+
+.row p {
+  padding-left: 15px;
+
+}
+
+.row h2 {
+  text-decoration: underline;
+  text-decoration-color: white;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.column-a {
+  margin-top: -15px;
+}
+
+#output {
+  border-style: solid;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  width: 500px;
+  margin-top: 20px;
+  display: block;
+}
+
+#output-2 {
+  border-style: solid;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  width: 500px;
+  margin-top: 20px;
+  display: block;
+}
+
+body {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#img {
+  margin-top: 15px;
+}
