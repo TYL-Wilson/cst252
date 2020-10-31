@@ -23,6 +23,7 @@
 // document.getElementById("output-2").innerHTML += "<p>" + secondcar.details() + "</p>";
 
 
+// covert code to class
 class Car {
   constructor(name, brand, year, color) {
     this.carname = name;
