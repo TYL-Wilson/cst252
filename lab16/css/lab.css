@@ -21,7 +21,6 @@
 }
 
 #output {
-  border-style: solid;
   padding-left: 15px;
   padding-bottom: 15px;
   width: 500px;
@@ -29,14 +28,7 @@
   display: block;
 }
 
-#output-2 {
-  border-style: solid;
-  padding-left: 15px;
-  padding-bottom: 15px;
-  width: 500px;
-  margin-top: 20px;
-  display: block;
-}
+
 
 body {
   margin-left: 15px;
@@ -45,8 +37,4 @@ body {
 
 p {
   font-size: 20px;
-}
-
-#img {
-  margin-top: 15px;
 }
