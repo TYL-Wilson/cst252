@@ -1,3 +1,5 @@
+//lab 19: ajax
+
 endpoint="https://api.whatdoestrumpthink.com/api/v1/quotes/random"
 /* add event listener */
 $("#my-button").click(function(){
